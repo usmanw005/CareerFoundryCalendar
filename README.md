@@ -1,7 +1,7 @@
 # Career Foundry Calendar
 
 ## Features
-Have tried implementing all of the requierd features
+Have tried implementing all of the required features
 
 ## Installation
 
